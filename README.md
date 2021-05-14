@@ -1,7 +1,7 @@
 ### BirdCalls
 *Lead:* Mia
 
-*Mentors:* Sean / Nicola
+*Mentors:* Sean and Nicola
 
 #### Work Plan:
 * Data preparation
