@@ -1,5 +1,5 @@
 ### BirdCalls
-*Owner:* Mia
+*Lead:* Mia
 
 *Mentors:* Sean / Nicola
 
@@ -15,6 +15,6 @@
 * Train a simple model to classify snippets. 
 * Experiment with generating synthetic inputs from randomly mixed snippets and various kinds of background noise.
 * Integrate the synthetic inputs into the training pipeline.
-*
+
 #### Deployment:
 * Integrate model into a plugin. 
